@@ -1,0 +1,43 @@
+Assist me with creating a web site using gatsby.js framework.
+Generate all required files for a minimal gatsby.js project which uses yarn as the build system, TypeScript as the preferred programming language and uses Tailwind for styling.
+Generate a package.json are file and verify that the versions of all dependecies are up to date. Use the latest version of gatsby.js 5.13. Current version of "@mdx-js/mdx" and "@mdx-js/react" is 3.0.1.
+The content for the website should be added in markdown files using mdx.
+Provide a download link. All files must use macos compatible line endings.
+
+Here's a collection of all your messages in the order you entered them:
+
+Assist me with creating a web site using gatsby.js framework.
+In a first step provide me a short tutorial how to set up a minimal gatsby.js project which uses yarn as the build system, TypeScript as the preferred programming language and uses Tailwind for styling.
+The content for the website should be added in markdown files using mdx.
+
+Can you please create all required files for me and provide a download link for an archive file.
+
+Create the content for the gallery.max. Also create code in which shows some images using a react carousel plugin. Use example images from the internet which show rooms of the condo.
+
+Create example content for feature and contact section using fictional but meaningful data for selling a condo.
+
+Add source code for a floating menu with links to all section.
+
+Go over all source documents and use TailwindCSs classes to create a harmonic look for the entire website. Add and use a custom fonts.
+
+Now use all the generated code and create all files for this website and provide a download link for an zip archived.
+Make sure the archived includes all required files for a complete gatsby project.
+
+Provide the download link for the above generated archive.
+
+The link is not working
+
+The file was not found for the given link.
+Make sure the above script for generating and zipping all project files ran successfully and provide a working link to a zip file.
+
+Now use all the generated code and create all files for this website and provide a download link for an zip archived.
+Make sure the archived includes all required files for a complete gatsby project.
+
+Provide the download link for the above generated archive.
+
+The link is not working
+
+Now use all the generated code and create all files for this website and provide a download link for an zip archived.
+Make sure the archived includes all required files for a complete gatsby project.
+
+
