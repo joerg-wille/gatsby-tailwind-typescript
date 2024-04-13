@@ -1,6 +1,6 @@
 Assist me with creating a web site using gatsby.js framework.
 Generate all required files for a minimal gatsby.js project which uses yarn as the build system, TypeScript as the preferred programming language and uses Tailwind for styling.
-Generate a package.json are file and verify that the versions of all dependecies are up to date. Use the latest version of gatsby.js 5.13. Current version of "@mdx-js/mdx" and "@mdx-js/react" is 3.0.1.
+Generate a package.json are file and verify that the versions of all dependencies are up to date. Use the latest version of gatsby.js 5.13. Current version of "@mdx-js/mdx" and "@mdx-js/react" is 3.0.1.
 The content for the website should be added in markdown files using mdx.
 Provide a download link. All files must use macos compatible line endings.
 
@@ -41,3 +41,16 @@ Now use all the generated code and create all files for this website and provide
 Make sure the archived includes all required files for a complete gatsby project.
 
 
+
+I want to continue working on a website project.
+It uses gatsby.js framework, yarn as the build system, TypeScript as the preferred programming language and uses Tailwind for styling. The content is provided as markdown files using mdx.
+Here is my code for a minimal starter gatsby project: https://github.com/joerg-wille/gatsby-tailwind-typescript.git
+In the next step I want to add content and additional functionalities for a professional looking website. The purpose of the website is to present and to sell a single condominium.
+Technically the site will be a single page website with infinite scroll, a floating menu on the top and an image carousel.
+Follow my steps:
+1. Analyse my existing source code from my github account: https://github.com/joerg-wille/gatsby-tailwind-typescript.git
+2. Add code and all required changes to add a fullscreen background image. Use gatsby-image to make it responsive. 
+Use an arbitrary free image from internet which shows the front site of a high quality renovated town house from the founding period.
+3.  Add code and all required changes for adding a infinite scrolling panel in the middle of the screen using 75% of the entire screen. The panel should be white and semi translucent (80%). Add fictional but meaningful example content for selling a condo.
+4. Add source code and all required changes for a floating menu with 4 links: Informationen, Grundriss , Fotos, Kontakt
+The menu should be on top, have a white backgound

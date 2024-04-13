@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fullscreen background image setup */
+.bg-fixed {
+    @apply bg-cover bg-center bg-no-repeat;
+}
+
+/* Infinite scrolling panel */
+.infinite-scroll-panel {
+    @apply w-3/4 min-h-screen mx-auto overflow-auto bg-white;
+}
+
+/* Content items within the panel */
+.content-item {
+    @apply p-4 border-b border-gray-200;
+}

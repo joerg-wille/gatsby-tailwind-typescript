@@ -9,5 +9,10 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  extend: {
+    backgroundImage: theme => ({
+      'house-front': "url('/src/images/Hintergrundbild.jpg')"
+    }),
+  }
 }
 
